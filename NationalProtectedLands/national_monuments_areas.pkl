@@ -1,0 +1,502 @@
+(dp0
+S'Petroglyph'
+p1
+V7,532 acres (30.48 km2)[1]
+p2
+sS'Bandelier'
+p3
+V33,677 acres (136.29 km2)[2]
+p4
+sS'Ironwood Forest'
+p5
+V188,619 acres (76,331 ha)[2]
+p6
+sS'Katahdin Woods and Waters'
+p7
+V87,563 acres (35,435 ha)
+p8
+sS'Grand Portage'
+p9
+V710 acres (2.9 km²)
+p10
+sS'Organ Pipe Cactus'
+p11
+V330,688 acres (1,338.25 km2)[1]
+p12
+sS'Tuzigoot'
+p13
+V811.89 acres (328.56 ha)[1]
+p14
+sS'Montezuma Castle'
+p15
+V859.27 acres (347.73 ha)[1]
+p16
+sS'Berryessa Snow Mountain'
+p17
+V330,780 acres (133,860 ha)
+p18
+sS'Pompeys Pillar'
+p19
+V51 acres (21 ha)[1]
+p20
+sS'Lava Beds'
+p21
+V46,692 acres (188.96 km2)[1]
+p22
+sS'Harriet Tubman Underground Railroad'
+p23
+V11,750 acres (4,760 ha)
+p24
+sS'Capulin Volcano'
+p25
+V793 acres (321 ha) [2]
+p26
+sS'Bears Ears'
+p27
+V1,350,000 acres (550,000 ha)
+p28
+sS'San Juan Islands'
+p29
+V1,000 acres (400 ha)
+p30
+sS'Browns Canyon'
+p31
+V21,586 acres (8,736 ha)
+p32
+sS'Admiralty Island'
+p33
+V955,747 acres (3,867.77 km2)
+p34
+sS'Rainbow Bridge'
+p35
+V160 acres (65 ha)[1]
+p36
+sS'Sand to Snow'
+p37
+V154,000 acres (62,000 ha)
+p38
+sS'Pipe Spring'
+p39
+V40 acres (16 ha)[1]
+p40
+sS'George Washington Birthplace'
+p41
+V661.7 acres (267.8 ha)[1]
+p42
+sS'Cape Krusenstern'
+p43
+V649,082 acres (2,626.74 km2)[1]
+p44
+sS'El Morro'
+p45
+V221 acres (89 ha)
+p46
+sS'Grand Canyon-Parashant'
+p47
+V1,048,325 acres (4,242.42 km2)[1]
+p48
+sS'Grand Staircase-Escalante'
+p49
+V1,880,461 acres (7,609.96 km2)[1]
+p50
+sS'Oregon Caves'
+p51
+V4,558 acres (1,845 ha)
+p52
+sS'Fort Ord'
+p53
+S'14,658 acres'
+p54
+sS'President Lincoln and Soldiers\xe2\x80\x99 Home'
+p55
+V2.3 acres (9,300 m2)
+p56
+sS'Casa Grande Ruins'
+p57
+V472.5 acres (191.2 ha)[2]
+p58
+sS'Organ Mountains-Desert Peaks'
+p59
+V496,330 acres (200,860 ha)
+p60
+sS'El Malpais'
+p61
+S'114,276 acres (462.46 km2)'
+p62
+sS'Fort Sumter'
+p63
+V234.74 acres (95.00 ha)[1]
+p64
+sS'Effigy Mounds'
+p65
+S'2,526 acres (10.22 km2)'
+p66
+sS'Fort Stanwix'
+p67
+V16 acres (6.5 ha)
+p68
+sS'Honouliuli'
+p69
+V122.5 acres (49.6 ha)[2]
+p70
+sS'Vermilion Cliffs'
+p71
+V293,689 acres (118,852 ha)[1]
+p72
+sS'Charles Young Buffalo Soldiers'
+p73
+F0.0
+sS'Alibates Flint Quarries'
+p74
+V1,371 acres (5.55 km2)[2]
+p75
+sS'Virgin Islands Coral Reef'
+p76
+V12,708 acres (51.43 km2)[1]
+p77
+sS'Chiricahua'
+p78
+V11,984 acres (48.50 km2)[1]
+p79
+sS'Aztec Ruins'
+p80
+V318 acres (129 ha)[2]
+p81
+sS'Canyon de Chelly'
+p82
+V83,840 acres (339.3 km2)[2]
+p83
+sS'John Day Fossil Beds'
+p84
+S'13,944 acres (5,643 ha)'
+p85
+sS'Devils Postpile'
+p86
+V798 acres (323 ha)[1]
+p87
+sS'Agua Fria'
+p88
+V72,344 acres (29,277 ha)[1]
+p89
+sS'Navajo'
+p90
+V360 acres (150 ha)[2]
+p91
+sS'Castle Mountains'
+p92
+V20,920 acres (8,470 ha)
+p93
+sS'Canyons of the Ancients'
+p94
+V176,056 acres (71,247 ha)[1]
+p95
+sS'Governors Island'
+p96
+V22.78 acres (9.22 ha)[1]
+p97
+sS'Stonewall'
+p98
+V7.7 acres (3.1 ha) near the intersection of Christopher Street and 7th Avenue
+p99
+sS'San Gabriel Mountains'
+p100
+V346,177 acres (140,093 ha)
+p101
+sS'Carrizo Plain'
+p102
+V246,812 acres (998.81 km2)[2]
+p103
+sS'Santa Rosa and San Jacinto Mountains'
+p104
+V280,071 acres (113,341 ha)[1]
+p105
+sS'Buck Island Reef'
+p106
+V880 acres (360 ha)
+p107
+sS'Cascade\xe2\x80\x93Siskiyou'
+p108
+V86,774 acres (35,116 ha)[1]
+p109
+sS'Castillo de San Marcos'
+p110
+V320 acres (1.29 km²)
+p111
+sS'Fort McHenry'
+p112
+S'43.26 acres (17.51 ha)'
+p113
+sS'Fort Monroe'
+p114
+V565 acres (229 ha)
+p115
+sS'Fort Union'
+p116
+V720.6 acres (291.6 ha)[2]
+p117
+sS'Waco Mammoth'
+p118
+V5 acres (2.0 ha)[1]
+p119
+sS'Yucca House'
+p120
+V33.87 acres (13.71 ha)[1]
+p121
+sS'Fort Matanzas'
+p122
+V227.76 acres (0.91 km²)
+p123
+sS'Castle Clinton'
+p124
+V1 acre (0.40 ha)
+p125
+sS'Pullman'
+p126
+I0
+sS'California Coastal'
+p127
+V2,272 acres (919 ha)[1]
+p128
+sS'Walnut Canyon'
+p129
+V2,249.5 acres (910.3 ha)
+p130
+sS'Little Bighorn Battlefield'
+p131
+V765.34 acres (309.72 ha)[1]
+p132
+sS'White Sands'
+p133
+V143,733 acres (581.67 km2)
+p134
+sS'Gila Cliff Dwellings'
+p135
+V533 acres (216 ha)
+p136
+sS'Hohokam Pima'
+p137
+V1,690 acres (6.8 km2)[2]
+p138
+sS'Ocmulgee'
+p139
+V701.54 acres (283.90 ha)[1]
+p140
+sS'Muir Woods'
+p141
+V554 acres (224 ha)[1]
+p142
+sS'Cabrillo'
+p143
+V143.9 acres (58.2 ha)
+p144
+sS'Sonoran Desert'
+p145
+V496,400 acres (200,886 ha)[1]
+p146
+sS'Homestead'
+p147
+V211 acres (85 ha)[1]
+p148
+sS'Statue of Liberty'
+p149
+I0
+sS'Kasha-Katuwe Tent Rocks'
+p150
+V5,402 acres (21.86 km2)[1]
+p151
+sS'Timpanogos Cave'
+p152
+V250 acres (100 ha)[1]
+p153
+sS'Upper Missouri River Breaks'
+p154
+V495,502 acres (2,005.23 km2)[1]
+p155
+sS'George Washington Carver'
+p156
+V210 acres (85 ha)[1]
+p157
+sS'Pacific Remote Islands Marine'
+p158
+S'313,818,892 acres (1,269,980.00 km2)'
+p159
+sS'Jewel Cave'
+p160
+V1,273 acres (5.15 km2)[1]
+p161
+sS'Basin and Range'
+p162
+V704,000 acres (285,000 ha)[1]
+p163
+sS'Fort Pulaski'
+p164
+V260 acres (105.2 ha)
+p165
+sS'C\xc3\xa9sar E. Ch\xc3\xa1vez'
+p166
+V116 acres (47 ha)[1]
+p167
+sS'Colorado'
+p168
+V20,533 acres (83.09 km2)[1]
+p169
+sS'Hanford Reach'
+p170
+V194,451 acres (78,692 ha) [1]
+p171
+sS'Salinas Pueblo Missions'
+p172
+V1,076.9 acres (435.8 ha)
+p173
+sS'Northeast Canyons and Seamounts Marine'
+p174
+V4,913 square miles (12,720 km2)
+p175
+sS'Hovenweep'
+p176
+V784 acres (317 ha)[1]
+p177
+sS'Florissant Fossil Beds'
+p178
+V5,998 acres (24.27 km2)[2]
+p179
+sS'Rose Atoll Marine'
+p180
+V8,571,633 acres (3,468,817 ha)[1]
+p181
+sS'Craters of the Moon'
+p182
+V464,303 acres (1,878.97 km2)[1]
+p183
+sS'Prehistoric Trackways'
+p184
+V5,255 acres (2,127 ha)[1]
+p185
+sS'Wupatki'
+p186
+S'35,422 acres (143.35 km2)'
+p187
+sS'African Burial Ground'
+p188
+V0.35 acres (0.14 ha)[1]
+p189
+sS'Misty Fjords'
+p190
+S'2,294,343 acres (9,246 km2)'
+p191
+sS'Cedar Breaks'
+p192
+V6,155 acres (24.91 km2)[1]
+p193
+sS'Mojave Trails'
+p194
+V1,600,000 acres (650,000 ha)
+p195
+sS'Hagerman Fossil Beds'
+p196
+V4,351 acres (17.61 km2)[1]
+p197
+sS'Papah\xc4\x81naumoku\xc4\x81kea Marine'
+p198
+V583,000 square miles (1,510,000 km2)[1]
+p199
+sS'Gold Butte'
+p200
+S'300,000 acres'
+p201
+sS'Chimney Rock'
+p202
+V4,726 acres (1,913 ha)
+p203
+sS'Military Working Dog Teams'
+p204
+I0
+sS'Booker T. Washington'
+p205
+V198.8 acres (80.5 ha)
+p206
+sS'Newberry'
+p207
+S'55,500 acres (225 km2)'
+p208
+sS'Scotts Bluff'
+p209
+V3,005 acres (12.16 km2)[2]
+p210
+sS'Fossil Butte'
+p211
+V8,198 acres (33.18 km2)[1]
+p212
+sS"Belmont-Paul Women's Equality"
+p213
+Vless than one acre
+p214
+sS'Russell Cave'
+p215
+V310 acres (130 ha)[1]
+p216
+sS'Sunset Crater Volcano'
+p217
+S'3,040 acres (12.3 km2)'
+p218
+sS'Fort Frederica'
+p219
+V218 acres (88.2 ha)
+p220
+sS'World War II Valor in the Pacific'
+p221
+V6,310 acres (25.5 km2)
+p222
+sS'Dinosaur'
+p223
+V210,844 acres (853.26 km2)
+p224
+sS'Devils Tower'
+p225
+S'1,347 acres'
+p226
+sS'Mount St. Helens'
+p227
+S'110,000 acres (450 km2)'
+p228
+sS'Marianas Trench Marine'
+p229
+S'60,938,240 acres'
+p230
+sS'Tonto'
+p231
+V1,120 acres (4.5 km2)[1]
+p232
+sS'Poverty Point'
+p233
+V910.85 acres (368.61 ha)[1]
+p234
+sS'Giant Sequoia'
+p235
+V327,769 acres (1,326.43 km2)
+p236
+sS'R\xc3\xado Grande del Norte'
+p237
+V242,455 acres (98,118 ha)[1]
+p238
+sS'Natural Bridges'
+p239
+V7,636 acres (30.90 km2)[2]
+p240
+sS'Aniakchak'
+p241
+V5,994 acres (2,426 ha)
+p242
+sS'Agate Fossil Beds'
+p243
+V11,617 acres (47.01 km2)[2]
+p244
+sS'Tule Springs Fossil Beds'
+p245
+V22,650 acres (9,170 ha)
+p246
+sS'Pipestone'
+p247
+V281.78 acres (1.14 km²)
+p248
+s.
